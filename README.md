@@ -1,4 +1,4 @@
-# goosetrack-team-project-back
+# goosetrack back
 
 ## Запуск документації по раутам на Swagger
 
